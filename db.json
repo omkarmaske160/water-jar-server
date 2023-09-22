@@ -1,0 +1,49 @@
+{
+  "admin": [
+    {
+      "name": "omkar",
+      "email": "ommhaske160@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "customer": [
+    {
+      "name": "Vivek Kakasaheb Shelke",
+      "email": "vivek@gmail.com",
+      "Address": "H.no 24  kakasaheb vila shiv nagar",
+      "contact": "48712818412",
+      "id": 2
+    },
+    {
+      "name": "Omkar Manish Maske",
+      "email": "omkarmaske160@gmail.com",
+      "Address": "Kumbharwada Barudgar nala, Aurangabad (mh), Aurangabad Aurangabad Maharashtra India, 431001",
+      "contact": "79797945687",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "jars": "6",
+      "date": "2023-06-20",
+      "userid": 3,
+      "userName": "Omkar Manish Maske",
+      "id": 1
+    },
+    {
+      "jars": "2",
+      "date": "2023-09-05",
+      "userid": 2,
+      "userName": "Vivek Kakasaheb Shelke",
+      "id": 2
+    },
+    {
+      "jars": "5",
+      "date": "2023-12-26",
+      "userid": 3,
+      "userName": "Omkar Manish Maske",
+      "id": 3
+    }
+  ]
+}
